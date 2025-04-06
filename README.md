@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front End Development Using React**
 
-- 👯 I’m looking to collaborate on **Coding Skills**
+- 👯 I’m looking to collaborate on **Coding Skills** & Seeking opportunities as a **Golang developer**
 
 - 📫 How to reach me **sakm2160@gmail.com**
 
